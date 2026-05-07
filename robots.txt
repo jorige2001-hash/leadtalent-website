@@ -1,0 +1,7 @@
+User-agent: *
+Allow: /
+
+# 測試期想暫時不被 Google 收錄，把上面那行改成：
+# Disallow: /
+
+Sitemap: https://www.leadtalent-tw.com/sitemap.xml
