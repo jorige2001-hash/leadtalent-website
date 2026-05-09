@@ -3,14 +3,13 @@
         xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://www.leadtalent-tw.com/</loc>
-    <lastmod>2026-05-08</lastmod>
+    <lastmod>2026-05-09</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
     <xhtml:link rel="alternate" hreflang="zh-TW" href="https://www.leadtalent-tw.com/"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://www.leadtalent-tw.com/en/"/>
+    <xhtml:link rel="alternate" hreflang="vi" href="https://www.leadtalent-tw.com/vi/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://www.leadtalent-tw.com/"/>
   </url>
   <url>
-    <loc>https://www.leadtalent-tw.com/en/</loc>
-    <lastmod>2026-05-08</lastmod>
-    <ch
+ 
